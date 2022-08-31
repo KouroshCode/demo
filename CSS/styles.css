@@ -1,0 +1,86 @@
+.navbar a {
+    color: #fff;
+}
+
+.navbar a:hover {
+    color: yellowgreen;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+}
+
+.inner {
+    width: 70%;
+    height: 70%;
+    margin-left: 16%;
+    padding-top: 3%;
+    border: none;
+    padding-bottom: 15px; 
+}
+
+.carousel-item{
+    align-items: center;
+}
+
+h5 {
+    color: #fff;
+}
+
+.fa-brands {
+    position: fixed;
+    padding-left: 12px;
+    color: green;
+    right: 12px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.oil {
+    max-width: 250px;
+    max-height: 250px;
+    float: left;
+    margin-right: 30px;
+}
+
+.rice {
+    max-width: 250px;
+    max-height: 250px;
+    float: right;
+    margin-right: 30px;
+    margin-top: -75px;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+
+hr {
+    margin: 30px auto;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+}
+
+/*
+.vl {
+    border-left: 6px solid black;
+    height: 1000px;
+    bottom: 500px;
+    margin-left: 150px;
+}
+*/
+
+.h1{
+   text-decoration: underline
+   
+}
+
+.p{
+    font-size: 2rem;
+}
